@@ -1,4 +1,5 @@
 Just do these steps to run on localhost
 
-npm install 
+npm install
+
 node index.js
